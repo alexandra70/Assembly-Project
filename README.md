@@ -17,8 +17,8 @@
 
 ***Functii folosite:
  get_words - > primeste un vector de adrese, un string, nr de cuvinte din string;
- Se doreste impartirea propozitiei dupa delimitaltorii : ,.\n
- Si mai apoi pasarea fiecarui cuvant in liniile matricei primita ca argument.
+ Se doreste impartirea propozitiei dupa delimitaltorii*** : ,.\n
+ ***Si mai apoi pasarea fiecarui cuvant in liniile matricei primita ca argument.
  Cu strtok iau cuvintele din propozitie si le adaug treptat in matrice pana cand nu mai am 
  cuvinte de procesat.
  sort -> primeste matricea de cuvinte pe care trebuie sa le sortez, numarul lor, si size-ul unui element din vector - vector de adrese - deci 4 octeti.
